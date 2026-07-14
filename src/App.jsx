@@ -257,7 +257,7 @@ const App = () => {
           <Cloud className="w-16 h-16 text-lime-500 mx-auto mb-6" />
           <h2 className="text-3xl font-bold text-white mb-6">Built for the Enterprise Cloud</h2>
           <p className="text-lg text-zinc-400 mb-8 max-w-2xl mx-auto">
-            Kuzumii is clear B2B software solving a real business problem with measurable ROI. It is an AI-powered, document-heavy platform built natively for robust cloud infrastructure, making it incredibly easy to host on Azure or AWS, and ready for the Microsoft Marketplace.
+            Kuzumii is clear B2B software solving a real business problem with measurable ROI. It is an AI-powered, document-heavy platform built natively for robust cloud infrastructure, making it incredibly easy to use
           </p>
         </div>
       </section>
